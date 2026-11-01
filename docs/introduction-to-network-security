@@ -40,7 +40,7 @@ This involves secretly monitoring network communications to obtain information.
 
 ### **Rogue Wireless Access Points**
 
-Unauthorised wireless access points may expose network users to security risks and allow attackers to intercept communications (Souppaya and Scarfone, 2012).
+Unauthorised wireless access points may expose network users to security risks and allow attackers to intercept communications (Souppaya & Scarfone, 2012).
 
 ## **1.4 Basic Network Security Controls**
 
@@ -58,3 +58,9 @@ Common network security controls include:
 **Network security** is necessary for protecting computer systems and information.
 
 Using appropriate security controls helps reduce vulnerabilities and improve the reliability of network environments.
+
+## **References**
+
+Chandramouli, R 2022, *Network security*, National Institute of Standards and Technology, viewed 1 November 2026.
+
+Souppaya, M & Scarfone, K 2012, *Guidelines for securing wireless local area networks (WLANs)*, National Institute of Standards and Technology, Gaithersburg, MD.
