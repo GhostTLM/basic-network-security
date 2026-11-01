@@ -58,7 +58,7 @@ safer computing environments.
 
 ## 7. Author
 
-GhostTLM
+Tlotlang Logic Madimabe
 Cybersecurity Student Mini-Project
 
 ## 8. References
