@@ -58,8 +58,8 @@ safer computing environments.
 
 ## 7. Author
 
-Junior Cybersecurity Analyst
-Student Mini-Project
+GhostTLM
+Cybersecurity Student Mini-Project
 
 ## 8. References
 
