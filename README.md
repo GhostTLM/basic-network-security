@@ -1,16 +1,16 @@
-BASIC NETWORK SECURITY DOCUMENTATION
+# BASIC NETWORK SECURITY DOCUMENTATION
 
-1. Introduction
+## 1. Introduction
 
 Network security refers to the protection of
 computer networks, connected devices and
-information against unauthorized access,
+information against unauthorised access,
 misuse and cyber threats.
 
 This project provides basic documentation on
 network security concepts and protective measures.
 
-2. Project Objectives
+## 2. Project Objectives
 
 The objectives of this project are:
 
@@ -20,13 +20,13 @@ The objectives of this project are:
 - To discuss network access control.
 - To identify basic network security practices.
 
-3. Project Scope
+## 3. Project Scope
 
 This documentation focuses on basic network
-security practices suitable for small organizations,
+security practices suitable for small organisations,
 schools and individual computer users.
 
-4. Project Contents
+## 4. Project Contents
 
 The repository contains:
 
@@ -35,10 +35,10 @@ The repository contains:
 - wireless-and-access-security.md
 - references.md
 
-5. Importance of Network Security
+## 5. Importance of Network Security
 
 Network security helps protect information and
-computer systems from unauthorized access and
+computer systems from unauthorised access and
 other network-related threats.
 
 Security controls such as firewalls, secure
@@ -46,22 +46,22 @@ configurations and access restrictions can help
 reduce network security risks (Scarfone and
 Hoffman, 2009; Souppaya and Scarfone, 2012).
 
-6. Conclusion
+## 6. Conclusion
 
 Protecting computer networks requires appropriate
 security controls, regular maintenance and
-responsible user behavior.
+responsible user behaviour.
 
 Understanding basic network security concepts
-helps individuals and organizations maintain
+helps individuals and organisations maintain
 safer computing environments.
 
-7. Author
+## 7. Author
 
-Tlotlang Logic Madimabe
-Cybersecurity Student Mini-Project
+Junior Cybersecurity Analyst
+Student Mini-Project
 
-8. References
+## 8. References
 
 See references.md for the complete Harvard-style
 reference list.
