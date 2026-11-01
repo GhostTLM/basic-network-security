@@ -48,7 +48,11 @@ Common network security controls include:
 
 Firewalls.
 
-a. Strong authentication. b. Access control. c. Network monitoring. d. Regular software updates. e. Secure wireless configurations.
+a. Strong authentication. 
+b. Access control. 
+c. Network monitoring. 
+d. Regular software updates. 
+e. Secure wireless configurations.
 
 ### Conclusion
 
