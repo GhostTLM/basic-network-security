@@ -1,21 +1,14 @@
 # INTRODUCTION TO NETWORK SECURITY
 
-## 1.1 Meaning of Network Security
+## **1.1 Meaning of Network Security**
 
-Network security refers to the methods and
-technologies used to protect computer networks
-against unauthorised access, misuse, modification
-and disruption.
+**Network security** refers to the methods and technologies used to protect computer networks against unauthorised access, misuse, modification and disruption.
 
-It involves protecting network devices,
-communication channels and information from
-different security threats.
+It involves protecting network devices, communication channels and information from different security threats.
 
-## 1.2 Importance of Network Security
+## **1.2 Importance of Network Security**
 
-Network security is important because organisations
-and individuals depend on networks to communicate,
-share information and access digital services.
+**Network security** is important because organisations and individuals depend on networks to communicate, share information and access digital services.
 
 Good network security helps to:
 
@@ -25,43 +18,31 @@ Good network security helps to:
 - Maintain the availability of network services.
 - Protect connected devices.
 
-NIST explains that network security involves
-different technical controls and security
-configurations designed to protect network
-resources (Chandramouli, 2022).
+NIST explains that network security involves different technical controls and security configurations designed to protect network resources (Chandramouli, 2022).
 
-## 1.3 Common Network Security Threats
+## **1.3 Common Network Security Threats**
 
-### Malware
+### **Malware**
 
-Malware is malicious software designed to damage
-devices, steal information or disrupt computer
-operations.
+Malware is malicious software designed to damage devices, steal information or disrupt computer operations.
 
-### Unauthorised Access
+### **Unauthorised Access**
 
-This occurs when individuals access a network
-or its resources without permission.
+This occurs when individuals access a network or its resources without permission.
 
-### Denial-of-Service Attacks
+### **Denial-of-Service Attacks**
 
-These attacks attempt to make network services
-unavailable by overwhelming them with traffic
-or requests.
+These attacks attempt to make network services unavailable by overwhelming them with traffic or requests.
 
-### Eavesdropping
+### **Eavesdropping**
 
-This involves secretly monitoring network
-communications to obtain information.
+This involves secretly monitoring network communications to obtain information.
 
-### Rogue Wireless Access Points
+### **Rogue Wireless Access Points**
 
-Unauthorised wireless access points may expose
-network users to security risks and allow
-attackers to intercept communications
-(Souppaya and Scarfone, 2012).
+Unauthorised wireless access points may expose network users to security risks and allow attackers to intercept communications (Souppaya and Scarfone, 2012).
 
-## 1.4 Basic Network Security Controls
+## **1.4 Basic Network Security Controls**
 
 Common network security controls include:
 
@@ -72,11 +53,8 @@ Common network security controls include:
 5. Regular software updates.
 6. Secure wireless configurations.
 
-## 1.5 Conclusion
+## **1.5 Conclusion**
 
-Network security is necessary for protecting
-computer systems and information.
+**Network security** is necessary for protecting computer systems and information.
 
-Using appropriate security controls helps
-reduce vulnerabilities and improve the
-reliability of network environments.
+Using appropriate security controls helps reduce vulnerabilities and improve the reliability of network environments.
