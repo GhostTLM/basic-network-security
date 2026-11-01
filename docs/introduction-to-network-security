@@ -1,6 +1,6 @@
-# INTRODUCTION TO NETWORK SECURITY
+*INTRODUCTION TO NETWORK SECURITY*
 
-## 1.1 Meaning of Network Security
+*1.1 Meaning of Network Security*
 
 Network security refers to the methods and
 technologies used to protect computer networks
@@ -11,7 +11,7 @@ It involves protecting network devices,
 communication channels and information from
 different security threats.
 
-## 1.2 Importance of Network Security
+*1.2 Importance of Network Security*
 
 Network security is important because organisations
 and individuals depend on networks to communicate,
@@ -30,38 +30,38 @@ different technical controls and security
 configurations designed to protect network
 resources (Chandramouli, 2022).
 
-## 1.3 Common Network Security Threats
+*1.3 Common Network Security Threats*
 
-### Malware
+*Malware*
 
 Malware is malicious software designed to damage
 devices, steal information or disrupt computer
 operations.
 
-### Unauthorised Access
+*Unauthorised Access*
 
 This occurs when individuals access a network
 or its resources without permission.
 
-### Denial-of-Service Attacks
+*Denial-of-Service Attacks*
 
 These attacks attempt to make network services
 unavailable by overwhelming them with traffic
 or requests.
 
-### Eavesdropping
+*Eavesdropping*
 
 This involves secretly monitoring network
 communications to obtain information.
 
-### Rogue Wireless Access Points
+*Rogue Wireless Access Points* 
 
 Unauthorised wireless access points may expose
 network users to security risks and allow
 attackers to intercept communications
 (Souppaya and Scarfone, 2012).
 
-## 1.4 Basic Network Security Controls
+*1.4 Basic Network Security Controls* 
 
 Common network security controls include:
 
@@ -72,7 +72,7 @@ Common network security controls include:
 5. Regular software updates.
 6. Secure wireless configurations.
 
-## 1.5 Conclusion
+ *1.5 Conclusion* 
 
 Network security is necessary for protecting
 computer systems and information.
