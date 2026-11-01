@@ -48,7 +48,12 @@ Runs on an individual computer or device to control its incoming and outgoing tr
 
 Organizations should:
 
-✓ Configure firewall rules appropriately. ✓ Block unnecessary network connections. ✓ Review firewall logs regularly. ✓ Update firewall software and devices. ✓ Remove outdated or unnecessary rules. ✓ Restrict access to firewall administration.
+✓ Configure firewall rules appropriately. 
+✓ Block unnecessary network connections. 
+✓ Review firewall logs regularly. 
+✓ Update firewall software and devices. 
+✓ Remove outdated or unnecessary rules. 
+✓ Restrict access to firewall administration.
 
 NIST recommends that firewall policies should be properly established, configured, tested, and maintained (Scarfone and Hoffman, 2009).
 
