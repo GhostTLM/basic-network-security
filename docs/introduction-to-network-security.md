@@ -12,7 +12,11 @@ Network security is important because organizations and individuals depend on ne
 
 Good network security helps to:
 
-✓ Protect confidential information. ✓ Prevent unauthorized network access. ✓ Reduce the risk of cyberattacks. ✓ Maintain the availability of network services. ✓ Protect connected devices.
+✓ Protect confidential information. 
+✓ Prevent unauthorized network access. 
+✓ Reduce the risk of cyberattacks. 
+✓ Maintain the availability of network services. 
+✓ Protect connected devices.
 
 NIST explains that network security involves different technical controls and security configurations designed to protect network resources (Chandramouli, 2022).
 
